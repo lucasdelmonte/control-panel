@@ -1,0 +1,19 @@
+@font-face {
+  font-family: linotte-light;
+  src: url('../font/linotte-light-maisfontes.2d48/linotte-light.otf');
+}
+
+body {
+  font-family: linotte-light, sans-serif, Arial;
+  background: #f5ad40;
+  background: linear-gradient(to right, #ffb163, #f8a72d);
+}
+
+.bg {
+  background: url('../img/fondo.jpg');
+  background-position: center center;
+}
+
+table {
+  text-align: center;
+}
